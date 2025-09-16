@@ -1,5 +1,7 @@
 ## Hi 👋 I am Kumari Akansha Pursuing BCA 23'-26' From NERIM Group Of Institution.
 
+![](https://komarev.com/ghpvc/?username=your-github-akansha300105&color=40E0D0)
+
 ---
 
 # 💫 About Me:
@@ -68,9 +70,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=akansha300105&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=akansha300105&icon=5&color=0)](https://visitcount.itsvg.in)
