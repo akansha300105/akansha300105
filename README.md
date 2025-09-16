@@ -14,13 +14,13 @@
 
 * Open-source **Machine Learning / Data Science** projects.
 * **Python-based projects** (ML, data cleaning, automation).
-* Web apps using **Flask / Streamlit / React**.
+* Web apps using **Streamlit**.
 
 ### 👐 I’m looking for help with
 
-* Deploying ML models to **web apps or cloud**.
+* Deploying ML models to **Streamlit**.
 * Improving my knowledge of **deep learning**.
-* Understanding **MLOps** best practices.
+* Understanding **ML DL Concepts** best practices.
 
 ### 🏆 I’m currently learning
 
